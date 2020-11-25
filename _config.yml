@@ -1,8 +1,8 @@
 # Basic
-title: SHUSUNNY
+title: Shudong Sun
 subtitle: 
-welcome_message: <a href="https://shusunny.github.io/sunnyblog" target="_blank">Tech Blog</a>
-description: 本博主要记录我个人的生活点滴，更多代码类博文请查看下面的Tech Blog
+welcome_message: <a href="https://shusunny.github.io/sunnyblog" target="_blank">Computer Science M.S. Student of USC </a>
+description: I am focused on application of Data Science.
 creator: <a href="http://shusunny.github.io">@sunny</a>
 
 url: "https://shusunny.github.io"
@@ -23,8 +23,7 @@ blog_button:
 # Navigation buttons in the front page.
 nav:
     # - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
-    - {title: Resume, description: Resume, url: 'https://shusunny.github.io/resume'}
-    - {title: Tech Blog, description: Tech Blog, url: 'https://shusunny.github.io/sunnyblog'}
+    - {title: Resume, description: Resume, url: 'https://drive.google.com/file/d/1lSP-96PK9WuNo8kwUuB4DRCrE0gAvVQz/view?usp=sharing'}
 
 # Pagination
 gems: [jekyll-paginate]
