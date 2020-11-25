@@ -13,16 +13,15 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: grey
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客
-    description: Visit blog
+    title: Experience
+    description: Visit his experience
 
 # Navigation buttons in the front page.
 nav:
-    # - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     - {title: Resume, description: Resume, url: 'https://drive.google.com/file/d/1lSP-96PK9WuNo8kwUuB4DRCrE0gAvVQz/view?usp=sharing'}
 
 # Pagination
