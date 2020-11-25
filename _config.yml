@@ -3,9 +3,9 @@ title: Shudong Sun
 subtitle: 
 welcome_message: <a>Computer Science M.S. Student of USC </a>
 description: I am interested in the application of Data Science.
-creator: <a href="http://shusunny.github.io">@sunny</a>
+creator: <a href="http://shudongsun.github.io">@sunny</a>
 
-url: "https://shusunny.github.io"
+url: "https://shudongsun.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -31,12 +31,12 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: shusunny
+    disqus: shudongsun
     # duoshuo: 
     
 # Social
 social:
-    github: shudongsun
+    # github: shudongsun
     linkedin: shudongsun
     # gplus: 107108267983477358170
     mail: shudongs@usc.com
