@@ -1,33 +1,15 @@
 ## Shudong Sun
 
-Shudong Sun is a master student of deparetment of Computer Science in University of Southern California and the Research Assistant of [Prof. Xin tong](https://www.marshall.usc.edu/personnel/xin-tong).
+Shudong Sun is a master student of deparetment of Computer Science in University of Southern California.
 
 
-### Markdown
+### Current Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Shudong Sun is conducting research on Sample Size Determination with Dr. [Min Zhou](https://staff.uic.edu.cn/en/dst/1424-minzhou), supervised by Professor [Xin Tong](https://www.marshall.usc.edu/personnel/xin-tong) and Professor [Jingyi Li](https://bioscience.ucla.edu/faculty/jingyi-li).
 
-```markdown
-Syntax highlighted code block
+<!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Teaching Experience
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShudongSun/ShudongSun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
