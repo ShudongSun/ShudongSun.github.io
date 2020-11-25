@@ -1,1 +1,50 @@
-theme: jekyll-theme-cayman
+# Basic
+title: SHUSUNNY
+subtitle: 
+welcome_message: <a href="https://shusunny.github.io/sunnyblog" target="_blank">Tech Blog</a>
+description: 本博主要记录我个人的生活点滴，更多代码类博文请查看下面的Tech Blog
+creator: <a href="http://shusunny.github.io">@sunny</a>
+
+url: "https://shusunny.github.io"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: red
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客
+    description: Visit blog
+
+# Navigation buttons in the front page.
+nav:
+    # - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: Resume, description: Resume, url: 'https://shusunny.github.io/resume'}
+    - {title: Tech Blog, description: Tech Blog, url: 'https://shusunny.github.io/sunnyblog'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: shusunny
+    # duoshuo: 
+    
+# Social
+social:
+    weibo: shusunny
+    github: shusunny
+    twitter: sunzhen35
+   # gplus: 107108267983477358170
+    mail: sunzhen1135@gmail.com
+
+# Google Analytics
+ga:
+    id: UA-127400832-3
+    # host: your_host
