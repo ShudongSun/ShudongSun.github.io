@@ -1,9 +1,7 @@
 ## Shudong Sun
 
-Shudong Sun is a master student of deparetment of Computer Science in University of Southern California. He is also a Research Assistant of Prof. Xin tong.
-You can use the [editor on GitHub](https://github.com/ShudongSun/ShudongSun.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Shudong Sun is a master student of deparetment of Computer Science in University of Southern California and the Research Assistant of [Prof. Xin tong](https://www.marshall.usc.edu/personnel/xin-tong).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
