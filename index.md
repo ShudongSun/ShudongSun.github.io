@@ -11,8 +11,8 @@ Shudong Sun is conducting research on Sample Size Determination with Dr. [Min Zh
 
 ### Teaching Experience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShudongSun/ShudongSun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Shudong Sun was invited by Professor [Xin Tong](https://www.marshall.usc.edu/personnel/xin-tong) to be the teaching assistant of [Applied Modern Statistical Learning Methods](https://classes.usc.edu/term-20201/course/dso-530/) (DSO530) in 2020 Spring and will continue to be the teaching assistant of DSO530 in 2021 Spring.
 
-### Support or Contact
+In 2020 Spring, he established eight informative Python tutorials that served as the course foundation, including methods of feature engineering, implementation of resampling techniques, subset selection,  shrinkage methods, and methods of supervised learning and unsupervised learning.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
