@@ -7,6 +7,8 @@ Shudong Sun is a master student of deparetment of Computer Science in University
 
 Shudong Sun is conducting research on Sample Size Determination with Dr. [Min Zhou](https://staff.uic.edu.cn/en/dst/1424-minzhou), supervised by Professor [Xin Tong](https://www.marshall.usc.edu/personnel/xin-tong) and Professor [Jingyi Li](https://bioscience.ucla.edu/faculty/jingyi-li).
 
+We are writing R package [Sample-Size-Determination](https://github.com/ShudongSun/Sample-Size-Determination) to help the users to determine the sample size by looking at the standard deviation of AUCs.
+
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
 ### Teaching Experience
