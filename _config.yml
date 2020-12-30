@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Resume, description: Resume, url: 'https://drive.google.com/file/d/1lSP-96PK9WuNo8kwUuB4DRCrE0gAvVQz/view?usp=sharing'}
+    - {title: Resume, description: Resume, url: 'https://drive.google.com/file/d/1sF9aKE5cypnUsv3xaaVKcJ_SO75slyQ9/view?usp=sharing'}
 
 # Pagination
 gems: [jekyll-paginate]
