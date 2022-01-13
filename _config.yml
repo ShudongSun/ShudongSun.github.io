@@ -17,8 +17,8 @@ cover_color: grey
 
 # The blog button should not be removed.
 blog_button:
-    title: Experience
-    description: Visit his experience
+    title: About me
+    description: Know about me
 
 # Navigation buttons in the front page.
 nav:
