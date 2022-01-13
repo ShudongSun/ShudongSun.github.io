@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Resume, description: Resume, url: 'https://drive.google.com/file/d/1sF9aKE5cypnUsv3xaaVKcJ_SO75slyQ9/view?usp=sharing'}
+    - {title: Resume, description: Resume, url: 'https://drive.google.com/file/d/1-G1YIp5aUCRJghPh9GiWIVIKTmthb0Be/view?usp=sharing'}
 
 # Pagination
 gems: [jekyll-paginate]
@@ -39,7 +39,7 @@ social:
     # github: shudongsun
     linkedin: shudongsun
     # gplus: 107108267983477358170
-    mail: shudongs@usc.com
+    mail: shudongsun@email.arizona.com
 
 # Google Analytics
 ga:
