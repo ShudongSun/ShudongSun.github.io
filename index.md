@@ -1,20 +1,24 @@
 ## Shudong Sun
 
-Shudong Sun is a Ph.D. student of deparetment of Statistics and Data Science at The University of Arizona.
+First-year Ph.D. Student
+[Deparetment of Statistics and Data Science](https://statistics.arizona.edu/)
+[The University of Arizona](https://www.arizona.edu/)
 
 
-### Current Research
+### About me
 
-Shudong Sun is conducting research on Sample Size Determination with Dr. [Min Zhou](https://staff.uic.edu.cn/en/dst/1424-minzhou), supervised by Professor [Xin Tong](https://www.marshall.usc.edu/personnel/xin-tong) and Professor [Jingyi Li](https://bioscience.ucla.edu/faculty/jingyi-li).
-
-We are writing R package [Sample-Size-Determination](https://github.com/ShudongSun/Sample-Size-Determination) to help the users to determine the sample size by looking at the standard deviation of AUCs.
+I am a first-year Ph.D. student at The University of Arizona majoring in statistics and data science.
+I received my B.E. of Electronic Information Engineering from Beihang University, and M.S. from the Department of Computer Science at University of Southern California.
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
-### Teaching Experience
+### Research Interests
 
-Shudong Sun was invited by Professor [Xin Tong](https://www.marshall.usc.edu/personnel/xin-tong) to be the teaching assistant of [Applied Modern Statistical Learning Methods](https://classes.usc.edu/term-20201/course/dso-530/) (DSO530) in 2020 Spring and will continue to be the teaching assistant of DSO530 in 2021 Spring.
+Statistics and Data Science
 
-In 2020 Spring, he established eight informative Python tutorials that served as the course foundation, including methods of feature engineering, implementation of resampling techniques, subset selection,  shrinkage methods, and methods of supervised learning and unsupervised learning.
+### Contact me
+
+Email: shudongsun@email.arizona.com
+Office: ENR2 S370BB, Department of Mathematics, The University of Arizona
 
 
