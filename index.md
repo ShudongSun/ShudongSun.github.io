@@ -1,6 +1,6 @@
 ## Shudong Sun
 
-Shudong Sun is a master student of deparetment of Computer Science in University of Southern California.
+Shudong Sun is a Ph.D. student of deparetment of Statistics and Data Science at The University of Arizona.
 
 
 ### Current Research
