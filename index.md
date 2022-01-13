@@ -1,7 +1,6 @@
 ## Shudong Sun
 
-First-year Ph.D. Student
-
+First-year Ph.D. Student <br />
 [Deparetment of Statistics and Data Science](https://statistics.arizona.edu/)
 
 [The University of Arizona](https://www.arizona.edu/)
